@@ -3,6 +3,8 @@
 
 And btw, what are you doing reading this? Go to play or learn something new! (or study for school or college if you need to)
 
+
+TODO: I SHOULD update this...
 <!---
 bettendanet/bettendanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

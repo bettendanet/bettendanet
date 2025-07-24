@@ -1,7 +1,4 @@
-lol
-lmao
-xD
-TODO: I SHOULD update this...
+# NullPointerException!
 <!---
 bettendanet/bettendanet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
